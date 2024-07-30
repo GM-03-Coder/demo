@@ -1,3 +1,3 @@
 # demo
-this is my first git
-author- GOutam
+this is my first git.
+Author- Goutam
